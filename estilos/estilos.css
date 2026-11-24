@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap');
+
+
+:root {
+    --celeste: #A2D7E6;
+    --blanco: #F9F9F9;
+    --negro: #000000;
+}
+
+
+
+.tarjeta-pieza {
+    background-color: var(--blanco);
+    color: var(--negro);
+    transition: background-color 0.3s;
+}
+
+.tarjeta-pieza:hover {
+    background-color: var(--celeste);
+}
+
+
+/* tipografias */
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+    color: var(--negro);
+}
+.navbar-brand {
+    font-family: 'Roboto Slab', serif;
+}
+
+.nav-link, .btn, p {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+/* VENTANA MODAL */
+
+.modal-content {
+    background-color: var(--blanco);
+    color: var(--negro);
+    border: 1px solid var(--negro);
+    border-radius: 0;
+}
+
+.modal-header {
+    background-color: var(--celeste);
+    border-bottom: 1px solid var(--negro);
+}
+
+
+/* ESPACIADO DE SECCIONES */
+
+#anticoleccion,
+#proyecto,
+#fanzine {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* ESPACIADO DE TITULOS */
+
+#anticoleccion h2,
+#fanzine h2 {
+    margin-bottom: 1.5rem;
+}
+
+
+/* MARGEN GENERAL */
+
+.contenedor-traza {
+    width: 92%;
+    margin: 0 auto;
+}
+
+header.encabezado-traza{
+    background-color: var(--celeste);
+}
+
+#proyecto {
+    background-color: var(--celeste);
+}
+
+/* TAMAÑOS DE TIPOGRAFIA */
+
+.encabezado-traza h1 {
+    font-size: 4rem;
+}
+
+.pie-traza h2 {
+    font-size: 2rem;
+}

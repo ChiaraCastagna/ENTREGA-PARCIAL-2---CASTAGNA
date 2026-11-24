@@ -1,0 +1,110 @@
+[
+    {
+        "nombre": "BKF",
+        "autor": "Antonio Bonet, Juan Kurchan y Jorge Ferrari Hardoy",
+        "año": "1938",
+        "imagen": "img/bkf.jpg"
+    },
+    {
+        "nombre": "Siam Di Tella 1500",
+        "autor": "Siam Di Tella Automotores",
+        "año": "1959",
+        "imagen": "img/siam-di-tella-1500.jpg"
+    },
+    {
+        "nombre": "Cenicero Squash",
+        "autor": "María Sánchez",
+        "año": "1980",
+        "imagen": "img/cenicero-squash.jpg"
+    },
+    {
+        "nombre": "Afiche Sylvapen",
+        "autor": "Cicero Publicidad",
+        "año": "1968",
+        "imagen": "img/afiche-sylvapen.jpg"
+    },
+    {
+        "nombre": "Biblioteca Kavanagh",
+        "autor": "Cristian Mohaded",
+        "año": "2022",
+        "imagen": "img/biblioteca-kavanagh.jpg"
+    },
+    {
+        "nombre": "Yacaré",
+        "autor": "Cristian Mohaded",
+        "año": "2022",
+        "imagen": "img/yacare.jpg"
+    },
+    {
+        "nombre": "Sachet de leche",
+        "autor": "Luis Goldfarb",
+        "año": "1992",
+        "imagen": "img/sachet-de-leche.jpg"
+    },
+    {
+        "nombre": "Silla Hortensia",
+        "autor": "Andrés Reisinger",
+        "año": "2019",
+        "imagen": "img/silla-hortensia.jpg"
+    },
+    {
+        "nombre": "Banco Grupo Bondi",
+        "autor": "Grupo Bondi",
+        "año": "2010",
+        "imagen": "img/banco-grupo-bondi.jpg"
+    },
+    {
+        "nombre": "Tapa de disco Soda Stereo",
+        "autor": "Gabriela Malerba y Alejandro Ros",
+        "año": "1997",
+        "imagen": "img/tapa-soda-stereo.jpg"
+    },
+    {
+        "nombre": "Sillón Tupac",
+        "autor": "Alejandro Sarmiento",
+        "año": "1990",
+        "imagen": "img/sillon-tupac.jpg"
+    },
+    {
+        "nombre": "Logo Aerolíneas Argentinas",
+        "autor": "Agencia Agens",
+        "año": "1960",
+        "imagen": "img/logo-aerolineas-argentinas.jpg"
+    },
+    {
+        "nombre": "Banco Yacaré",
+        "autor": "Diana Cabeza",
+        "año": "2002",
+        "imagen": "img/banco-yacare.jpg"
+    },
+    {
+        "nombre": "Tipografía Montserrat",
+        "autor": "Julieta Ulanovsky",
+        "año": "2015",
+        "imagen": "img/tipografia-montserrat.jpg"
+    },
+    {
+        "nombre": "Silla Hueso",
+        "autor": "Fernando Poggio",
+        "año": "2000s",
+        "imagen": "img/silla-hueso.jpg"
+    },
+    {
+        "nombre": "Domo 510",
+        "autor": "Eduardo Reta",
+        "año": "2003",
+        "imagen": "img/domo-510.jpg"
+    },
+    {
+        "nombre": "Revista Sur",
+        "autor": "Alejandro Cristoff",
+        "año": "1931–1992",
+        "imagen": "img/revista-sur.jpg"
+    },
+    {
+        "nombre": "Lámpara Hanoi",
+        "autor": "Federico Churba",
+        "año": "2000s",
+        "imagen": "img/lampara-hanoi.jpg"
+    }
+]
